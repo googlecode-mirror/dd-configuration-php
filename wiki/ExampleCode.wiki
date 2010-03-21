@@ -64,6 +64,3 @@ DAO Password: [p@ssw0rd]
 DAO DSN:      [mysql:dbname=s3a;host=127.0.0.1]
 DAO DSN:      [${s3a.dao.driver}:dbname=${s3a.dao.dbName};host=${s3a.dao.hostname}]
 }}}
-
-{{{
-}}}
