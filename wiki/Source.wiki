@@ -4,7 +4,7 @@
 
 == Command-line access ==
 
-The source for dd-configuration [http://github.com/dflydev/dd-configuration lives on GitHub]. Use this command to anonymously check out the latest project source code:
+The source for dd-configuration [http://github.com/dflydev/dd-configuration-php lives on GitHub]. Use this command to anonymously check out the latest project source code:
 
 {{{
 git clone git://github.com/dflydev/dd-configuration-php.git
